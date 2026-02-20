@@ -1,6 +1,8 @@
 # Netflix-Tableau-Dashboard
 Netflix Data Analysis Dashboard created using Tableau
+
 📊 Netflix Data Analysis Dashboard (Tableau)
+
 📌 Project Overview
 
 This project analyzes Netflix content using Tableau to uncover trends in Movies and TV Shows based on year, genre, rating, and country.
