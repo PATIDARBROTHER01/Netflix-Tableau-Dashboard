@@ -27,7 +27,7 @@ Data Visualization
 
 Dashboard Design
 📷 Dashboard Preview
-<p align="center"> <img src="Netfilx 01.png" width="900"> </p>
+<p align="center"> <img src="Netflix 01.png" width="900"> </p>
 
 🚀 Skills Demonstrated
 
